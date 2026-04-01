@@ -72,8 +72,6 @@ When using this database in your research, publications, or projects, please pro
 RILEM TC 306-CFR Concrete Fire Spalling Database v0.0.0. Zenodo. https://doi.org/[INSERT-DOI-HERE]. CC BY 4.0.
 ```
 
-For more information on CC BY 4.0 attribution requirements, visit: https://creativecommons.org/licenses/by/4.0/
-
 ## References
 
 [1] https://www.rilem.net/groupe/306-cfr-concrete-during-fire-reassessment-of-the-framework-440
