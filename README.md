@@ -75,7 +75,7 @@ When using this database in your research, publications, or projects, please pro
 
 **Example citation format:**
 ```
-RILEM TC 306-CFR Concrete Fire Spalling Database v0.0.0. Zenodo. https://doi.org/[INSERT-DOI-HERE]. CC BY 4.0.
+Mróz, K., Bischof, P., von Greve-Dierfeld, S., Maluk, C., Mohammadi Firouz, R., & Rawat, S. (2026). Concrete Fire Spalling Database [Data set] Zenodo. https://doi.org/[INSERT-DOI-HERE]. CC BY 4.0.
 ```
 
 ## References
