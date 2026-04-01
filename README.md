@@ -1,4 +1,5 @@
 # RILEM TC 306-CFR Concrete Fire Spalling Database
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19368481.svg)](https://doi.org/10.5281/zenodo.19368481)
 
 [![Database Status](https://img.shields.io/badge/Open-Database-brightgreen?style=flat-square)](https://github.com/RILEM-TC-306-CFR/concrete-fire-spalling-library/blob/main/RILEM-TC-306-CFR-Task_C-Spalling-Database.csv)
 
