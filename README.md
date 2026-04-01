@@ -47,7 +47,7 @@ The database encompasses the following categories of parameters:
 The work has been carried out within RILEM TC 306-CFR. The following contribution statement provides an overview of the work carried out by the authors:
 
 - Katarzyna MRÓZ, Cracow University of Technology, Poland: Conceptualisation (lead), Formal analysis, Methodology (lead), Supervision, Investigation, Data entry, Writing – original draft and Writing – review & editing.
-- Patrick BISCHOF, ETH Zürich, Switzerland: Conceptualisation (lead), Formal analysis, Methodology (lead), Supervision, Investigation, Data entry, Writing – original draft and Writing – review & editing.
+- Patrick BISCHOF, DSE systems AG, Switzerland: Conceptualisation (lead), Formal analysis, Methodology (lead), Supervision, Investigation, Data entry, Writing – original draft and Writing – review & editing.
 - Stefanie von GREVE-DIERFELD, TFB AG, Switzerland: Conceptualisation (lead), Formal analysis, Methodology (lead), Data entry, Writing – review & editing.
 - Cristian MALUK, Semper, United Kingdom: Conceptualisation (lead), Methodology (lead), Data entry, Supervision (lead), Writing – review & editing.
 - Reza M. FIROUZ, University of Lisbon, Portugal: Formal analysis, Investigation, Data entry.
