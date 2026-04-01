@@ -45,14 +45,15 @@ The database encompasses the following categories of parameters:
 ## Main Contributors
 
 The work has been carried out within RILEM TC 306-CFR. The following contribution statement provides an overview of the work carried out by the authors:
-•	Katarzyna MRÓZ, Cracow University of Technology, Poland: Conceptualisation (lead), Formal analysis, Methodology (lead), Supervision, Investigation, Data entry, Writing – original draft and Writing – review & editing.
-•	Patrick BISCHOF, ETH Zürich, Switzerland: Conceptualisation (lead), Formal analysis, Methodology (lead), Supervision, Investigation, Data entry, Writing – original draft and Writing – review & editing.
-•	Stefanie von GREVE-DIERFELD, TFB AG, Switzerland: Conceptualisation (lead), Formal analysis, Methodology (lead), Data entry, Writing – review & editing.
-•	Cristian MALUK, Semper, United Kingdom: Conceptualisation (lead), Methodology (lead), Data entry, Supervision (lead), Writing – review & editing.
-•	Reza M. FIROUZ, University of Lisbon, Portugal: Formal analysis, Investigation, Data entry.
-•	Sanket RAWAT, Western Sydney University, Australia: Formal analysis, Investigation, Data entry.
-•	Pierre PIMIENTA, CSTB, France: Investigation, Data review.
-•	Bruno FERNANDES, CERIB, France: Data review.
+
+- Katarzyna MRÓZ, Cracow University of Technology, Poland: Conceptualisation (lead), Formal analysis, Methodology (lead), Supervision, Investigation, Data entry, Writing – original draft and Writing – review & editing.
+- Patrick BISCHOF, ETH Zürich, Switzerland: Conceptualisation (lead), Formal analysis, Methodology (lead), Supervision, Investigation, Data entry, Writing – original draft and Writing – review & editing.
+- Stefanie von GREVE-DIERFELD, TFB AG, Switzerland: Conceptualisation (lead), Formal analysis, Methodology (lead), Data entry, Writing – review & editing.
+- Cristian MALUK, Semper, United Kingdom: Conceptualisation (lead), Methodology (lead), Data entry, Supervision (lead), Writing – review & editing.
+- Reza M. FIROUZ, University of Lisbon, Portugal: Formal analysis, Investigation, Data entry.
+- Sanket RAWAT, Western Sydney University, Australia: Formal analysis, Investigation, Data entry.
+- Pierre PIMIENTA, CSTB, France: Investigation, Data review.
+- Bruno FERNANDES, CERIB, France: Data review.
 
 ## Citation rules
 
@@ -71,8 +72,6 @@ When using this database in your research, publications, or projects, please pro
 ```
 RILEM TC 306-CFR Concrete Fire Spalling Database v0.0.0. Zenodo. https://doi.org/[INSERT-DOI-HERE]. CC BY 4.0.
 ```
-
-For more information on CC BY 4.0 attribution requirements, visit: https://creativecommons.org/licenses/by/4.0/
 
 ## References
 
