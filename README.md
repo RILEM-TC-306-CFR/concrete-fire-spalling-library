@@ -1,5 +1,10 @@
 # Concrete Fire Spalling Database
 
+[![Database Status](https://img.shields.io/badge/Database-Active-brightgreen?style=flat-square)](https://github.com/RILEM-TC-306-CFR/concrete-fire-spalling-library)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
+[![RILEM TC 306-CFR](https://img.shields.io/badge/RILEM-TC%20306%20CFR-orange?style=flat-square)](https://www.rilem.net/groupe/306-cfr-concrete-during-fire-reassessment-of-the-framework-440)
+[![CSV Format](https://img.shields.io/badge/Format-CSV-success?style=flat-square)](https://en.wikipedia.org/wiki/Comma-separated_values)
+
 ## Introduction
 
 This open-access database collects experimental and industrial data on fire-induced concrete spalling, gathered and systematized by the **RILEM TC-306 CFR** ("Concrete during Fire - Reassessment of the framework") working group [1].
