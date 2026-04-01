@@ -1,4 +1,4 @@
-# Concrete Fire Spalling Database
+# RILEM TC 306-CFR Concrete Fire Spalling Database
 
 [![Database Status](https://img.shields.io/badge/Open-Database-brightgreen?style=flat-square)](https://github.com/RILEM-TC-306-CFR/concrete-fire-spalling-library/blob/main/RILEM-TC-306-CFR-Task_C-Spalling-Database.csv)
 
@@ -75,11 +75,13 @@ When using this database in your research, publications, or projects, please pro
 
 **Example citation format:**
 ```
-Mróz, K., Bischof, P., von Greve-Dierfeld, S., Maluk, C., Mohammadi Firouz, R., & Rawat, S. (2026). Concrete Fire Spalling Database [v1.0.0.] [Data set] Zenodo. https://doi.org/[INSERT-DOI-HERE]. CC BY 4.0.
+Mróz, K., Bischof, P., von Greve-Dierfeld, S., Maluk, C., Mohammadi Firouz, R., & Rawat, S. (2026). RILEM TC 306-CFR: Concrete Fire Spalling Database (vX.X.X - provide appropriate) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19368480
 ```
 
 ## References
 
 [1] https://www.rilem.net/groupe/306-cfr-concrete-during-fire-reassessment-of-the-framework-440
+
 [2] Pimienta, P., McNamee, R., Hager, I., Mróz, K., Boström, L., Mohaine, S., et al., Recommendation of RILEM TC 256-SPF on the method of testing concrete spalling due to fire: material screening test, Mater. Struct. 56 (2023) 164.  
+
 [3] Pimienta, P., McNamee, R., Robert, F., Boström, L., Huang, S.-S., Mróz, K., et al., Recommendation of RILEM TC 256-SPF on fire spalling assessment during standardised fire resistance tests: complementary guidance and requirements, Mater. Struct. 57 (2024) 3.
