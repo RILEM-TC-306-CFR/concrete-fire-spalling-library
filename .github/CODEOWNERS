@@ -1,0 +1,15 @@
+# GitHub CODEOWNERS file
+# This file specifies who should review pull requests for different parts of the repository
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Database files - primary reviewers
+RILEM*.csv @katarzyna-mroz @patrick-bischof
+
+# Documentation files
+README.md @katarzyna-mroz @patrick-bischof
+CONTRIBUTING.md @katarzyna-mroz @patrick-bischof
+MAINTAINERS.md @katarzyna-mroz @patrick-bischof
+LICENCE.md @katarzyna-mroz @patrick-bischof
+
+# All repository files - default reviewers
+* @katarzyna-mroz @patrick-bischof
