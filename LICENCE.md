@@ -19,4 +19,4 @@ You must follow these terms:
 
 - **No additional restrictions** —  You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-To view a copy of this license, visit [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+For more information on CC BY 4.0 attribution requirements, visit: https://creativecommons.org/licenses/by/4.0/
