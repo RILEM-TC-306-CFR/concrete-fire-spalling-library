@@ -1,6 +1,6 @@
 # Concrete Fire Spalling Database
 
-[![Database Status](https://img.shields.io/badge/Database-Open-brightgreen?style=flat-square)] (https://github.com/RILEM-TC-306-CFR/concrete-fire-spalling-library/blob/main/RILEM-TC-306-CFR-Task_C-Spalling-Database.csv)
+[![Database Status](https://img.shields.io/badge/Database-Open-brightgreen?style=flat-square)](https://github.com/RILEM-TC-306-CFR/concrete-fire-spalling-library/blob/main/RILEM-TC-306-CFR-Task_C-Spalling-Database.csv)
 
 [![RILEM TC 306-CFR](https://img.shields.io/badge/RILEM-TC%20306%20CFR-orange?style=flat-square)](https://www.rilem.net/groupe/306-cfr-concrete-during-fire-reassessment-of-the-framework-440)
 
