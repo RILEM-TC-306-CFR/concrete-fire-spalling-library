@@ -36,6 +36,12 @@ The database encompasses the following categories of parameters:
 - **Instrumentation**: Temperature sensors, pressure transducers, cameras, strain measurements
 - **Spalling outcomes**: Occurrence, timing of first/last event, extent, depth, volume, mass loss
 
+## Supplementary photographs
+
+A supplementary archive containing post-spalling photographs of selected specimens is available in the corresponding Zenodo record.
+The last column of the database contains the photograph identifier, which corresponds directly to the filename of the associated image in the supplementary archive.
+Photographs are available only for specimens for which suitable image records could be obtained.
+
 ## Data Access
 
 **File format**: CSV (Comma-Separated Values)
